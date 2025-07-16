@@ -32,7 +32,7 @@ Added clothing material suggestions tailored to the current weather and AQI, hel
 
 **Frontend:** HTML,CSS,JavaScript
 
-**Api**-Weather Api
+**Api**-OpenWeather Api
 ## Run Locally
 
 Clone the project
